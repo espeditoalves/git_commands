@@ -52,6 +52,12 @@ Para contribuir com este projeto:
 2. Faça suas alterações
 3. Faça um commit com mensagem descritiva
 4. Envie um Pull Request
+## Recursos
+
+- Análise exploratória de dados com Pandas
+- Visualização de gráficos com Matplotlib
+- Estrutura organizada para projetos de Data Science
+- Suporte para ambiente virtual Python
 
 ## Observações
 
