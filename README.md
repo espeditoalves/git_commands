@@ -35,6 +35,23 @@ Este projeto contém um notebook simples de análise de dados e uma estrutura de
 - Abra `run.ipynb` no Jupyter Notebook ou JupyterLab.
 - Certifique-se de usar o kernel Python do ambiente virtual `.venv`.
 
+
+
+
+
+### Contribuindo 2
+ldfaskjflhsfhasf
+
+### Contribuindo 3
+sdfasfsfa
+## Contribuindo
+
+Para contribuir com este projeto:
+
+1. Crie uma nova branch a partir de `main`
+2. Faça suas alterações
+3. Faça um commit com mensagem descritiva
+4. Envie um Pull Request
 ## Recursos
 
 - Análise exploratória de dados com Pandas
