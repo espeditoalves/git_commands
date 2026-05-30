@@ -35,6 +35,13 @@ Este projeto contém um notebook simples de análise de dados e uma estrutura de
 - Abra `run.ipynb` no Jupyter Notebook ou JupyterLab.
 - Certifique-se de usar o kernel Python do ambiente virtual `.venv`.
 
+## Recursos
+
+- Análise exploratória de dados com Pandas
+- Visualização de gráficos com Matplotlib
+- Estrutura organizada para projetos de Data Science
+- Suporte para ambiente virtual Python
+
 ## Observações
 
 - Coloque seu arquivo CSV em `dataset/`.
